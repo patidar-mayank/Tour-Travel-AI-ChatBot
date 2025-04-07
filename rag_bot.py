@@ -30,7 +30,7 @@ def build_rag_chain(db):
     llm = ChatGroq(
         model_name="llama3-70b-8192",
         temperature=0.2,
-        groq_api_key="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"
+        groq_api_key=""
     )
 
     prompt_template = PromptTemplate(
