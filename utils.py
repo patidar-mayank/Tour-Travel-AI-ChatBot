@@ -9,4 +9,4 @@ def extract_text_from_pdf(pdf_path):
 
 
 #.\env\Scripts\activate
-#os.environ["GROQ_API_KEY"] = "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"
+
