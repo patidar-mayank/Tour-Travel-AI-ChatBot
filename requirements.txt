@@ -10,5 +10,5 @@ langchain-text-splitters>=0.0.1
 langchainhub
 faiss-cpu
 tiktoken
-groq
+langchain-groq
 
